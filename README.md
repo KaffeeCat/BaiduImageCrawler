@@ -15,9 +15,9 @@
   python image_crawler.py $Image_Description $Search_Page_Begin_ID $Search_Page_End_ID
   ```
   * Parameters :
-    * **$Image_Description** : Description of image, example : dog, cat, rabbit, etc
-    * **$Search_Page_Begin_ID** (optional) : Each page of search present 60 images, which page do you want to start the crawling
-    * **$Search_Page_End_ID** (optional) : which page do you want to end the crawling
+    * *$Image_Description* : description of image, example : dog, cat, rabbit, etc
+    * *$Search_Page_Begin_ID* (optional) : each page of search present 60 images, which page do you want to start the crawling
+    * *$Search_Page_End_ID* (optional) : which page do you want to end the crawling
     <br>
   * Outputs : All images will be download a folder named `$IMAGE_DESCRIPTION` in current directory.
     
