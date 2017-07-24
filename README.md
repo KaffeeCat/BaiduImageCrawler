@@ -24,5 +24,7 @@ Search and download images from [Baidu Image Search Engine](images.baidu.com)
   ## Example
   Here is a example to present how to crawl image about `柳岩` :
   ``` Shell
-  python image_crawler.py 柳岩 0 128
+  python image_crawler.py 美女 0 128
   ```
+  Here is what we got, a folder named `美女` that full of pictures :
+  ![image](https://github.com/KaffeeCat/BaiduImageCrawler/blob/master/demonstration.jpg?raw=true)
