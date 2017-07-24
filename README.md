@@ -1,5 +1,5 @@
 # Baidu Image Crawler
-Search and download images from [Baidu Image Search Engine](images.baidu.com)
+:bar_chart: A simple command-line script for search and download images from [Baidu Image Search Engine](images.baidu.com)
 
 ## Dependencies
   * Python 2.7
