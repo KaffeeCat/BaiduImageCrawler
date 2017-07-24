@@ -3,7 +3,7 @@ Search and download images from [Baidu Image Search Engine](images.baidu.com)
 
 ## Dependencies
   * Python 2.7
-  * OpenCV
+  * OpenCV `all downloaded images will be verified by OpenCV, to gurantee image file is OK`
   ``` Shell
   # Install OpenCV library
   sudo apt-get install -y libopencv-dev
@@ -27,4 +27,5 @@ Search and download images from [Baidu Image Search Engine](images.baidu.com)
   python image_crawler.py 美女 0 128
   ```
   Here is what we got, a folder named `美女` that full of pictures :
+  <br>
   ![image](https://github.com/KaffeeCat/BaiduImageCrawler/blob/master/demonstration.jpg?raw=true)
